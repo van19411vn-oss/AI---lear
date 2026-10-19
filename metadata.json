@@ -1,0 +1,6 @@
+{
+  "name": "AI LEARN 2A10 - Trạm Học Tập Thông Minh",
+  "description": "Trạm học tập thông minh cho học sinh và giáo viên lớp 2A10: Mỗi em một lộ trình – Mỗi ngày một tiến bộ. Luyện tập Toán, Tiếng Việt, Thách đấu bạn bè và Bạn AI trợ lý học tập.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
